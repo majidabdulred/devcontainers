@@ -13,5 +13,5 @@ It container:
 - CUDA Version: 12.7
 
 
-$ Swig
+# Swig
 For GUI support from inside the container. Download Xlaunch for support.
